@@ -1,6 +1,19 @@
-*{
-    box-sizing: border-box;
-        margin: 0;
-        padding: 0;
-        outline: 0;
+body {
+    background-image: ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size:50px;
+}
+.botao{
+    background-color: blue;
+    color: antiquewhite;
+    border: none;
+    text-align: center;
+    padding: 10px 20px;
+    display: inline-block;
+    cursor: pointer;
 }
