@@ -7,6 +7,9 @@ h1{
 body {
 background-image: url("images.png");
 }
+h1{
+    -webkit-mask-image:center;
+}
  .gato{
     width: 19%;
     height: 24%;
