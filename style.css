@@ -1,11 +1,11 @@
 h1{
     text-align: center;
     font-size: 60px;
-    color: rgb(106, 52, 8);   
+    color: rgb(0, 0, 0);   
 }
 
 body {
-background-image: url();
+background-image: url("images.png");
 }
  .gato{
     width: 19%;
